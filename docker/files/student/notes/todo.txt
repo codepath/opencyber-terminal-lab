@@ -1,0 +1,3 @@
+- finish the Terminal + SSH lab
+- practice: ssh into a server using a key (no password!)
+- ask Dana about the offsite

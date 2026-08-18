@@ -1,0 +1,2 @@
+random scratch notes... nothing important here.
+practice moving me around with `mv`, or read me with `cat`.

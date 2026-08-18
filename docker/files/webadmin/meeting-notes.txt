@@ -1,0 +1,8 @@
+Team sync - Tuesday
+-------------------
+- Ship the Q3 report by Friday
+- Rotate the shared account password (overdue)
+- Ask IT why the box has been running hot overnight
+- Someone set up a scheduled job nobody remembers - investigate
+
+Action items assigned to: whoever inherits this machine (that's you now).

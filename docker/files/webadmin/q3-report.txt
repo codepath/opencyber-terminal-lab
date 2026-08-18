@@ -1,0 +1,9 @@
+Q3 STATUS REPORT (DRAFT)
+========================
+
+Uptime: good, aside from unexplained overnight CPU spikes.
+Budget: on track.
+Security: pending review. See auth.log - there are login events from an
+address nobody recognizes. Flagging for the next operator.
+
+This is a document. It belongs in documents/.

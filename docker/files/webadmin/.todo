@@ -1,0 +1,6 @@
+todo (private):
+  - buy coffee filters
+  - reply to Dana about the offsite
+  - renew the domain before it lapses
+  - remove that 3am cron job I added "temporarily" to test the updater
+    ...wait, I never added a 3am cron job. Something else did.

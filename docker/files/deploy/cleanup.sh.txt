@@ -1,0 +1,4 @@
+#!/bin/sh
+# clears the local build cache
+rm -rf ./cache/*
+echo "cache cleared"

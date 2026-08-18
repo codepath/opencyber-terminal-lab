@@ -1,0 +1,4 @@
+PRODUCT ROADMAP (draft)
+- Q3: ship the billing rewrite
+- Q4: SSO + audit logging
+- Q1 next year: mobile beta

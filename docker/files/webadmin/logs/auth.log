@@ -1,0 +1,8 @@
+Aug 12 08:00:59 box sshd[811]: Accepted publickey for student from 10.0.0.14 port 52233 ssh2
+Aug 12 08:44:03 box sudo: student : TTY=pts/0 ; PWD=/home/student ; USER=root ; COMMAND=/usr/bin/apt update
+Aug 12 09:15:22 box sshd[1290]: Failed password for student from 10.0.0.51 port 44120 ssh2
+Aug 13 03:17:48 box sshd[2044]: Failed password for root from 185.220.101.47 port 60122 ssh2
+Aug 13 03:17:51 box sshd[2044]: Failed password for root from 185.220.101.47 port 60122 ssh2
+Aug 13 03:18:05 box sshd[2051]: Accepted password for root from 185.220.101.47 port 60140 ssh2
+Aug 13 03:19:32 box sshd[2051]: Accepted publickey for root from 185.220.101.47 port 60155 ssh2
+Aug 13 08:02:10 box sshd[3140]: Accepted publickey for student from 10.0.0.14 port 52880 ssh2

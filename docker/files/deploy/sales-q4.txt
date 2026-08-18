@@ -1,0 +1,5 @@
+Q4 SALES SUMMARY
+New logos:      42
+Renewals:       118
+Churn:          9
+Net revenue:    up 12% QoQ
